@@ -2,7 +2,7 @@
 
 ## Project 1:
 
-[Securing a Web Application](./Project\ 1/)
+[Securing a Web Application](./Project_1/)
 
 Description:
 The purpose of this project was to familiarize myself with the security process of establishing, creating and provisioning a secure web application within the cloud environment.
